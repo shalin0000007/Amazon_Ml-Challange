@@ -1,0 +1,29 @@
+# Dataset files (large; added separately, never commit)
+dataset/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.ipybn_checkpoints/
+
+# Generated outputs / submissions
+output/
+
+# OS / editor junk
+.DS_Store
+__MACOSX/
+Thumbs.db
+.idea/
+.vscode/
+*.swp
