@@ -1,0 +1,8 @@
+# Amazon ML Challenge 2026 - Pinned Dependencies
+lightgbm==4.7.0
+rapidfuzz==3.14.6
+scikit-learn==1.6.1
+pandas==2.2.3
+numpy==2.2.6
+scipy==1.15.2
+psutil>=5.9.0
